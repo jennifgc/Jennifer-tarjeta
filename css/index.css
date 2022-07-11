@@ -1,19 +1,13 @@
 .body {
-    background-color: darkcyan;
+    background-color: #556b2f;
+    color: #ffffff;
+    margin: 0;
 }
 
-.profile {}
-
-.profile_container {}
-
-.card {}
-
-.card_header {}
-
-.card_header-img-container {}
-
-.card_header-img {}
-
-.card_body {}
-
-.card_body-title {}
+.header {
+    background-color: darkkhaki;
+    box-shadow: 0 0 2rem 1rem whitesmoke;
+    border: rgb(252, 252, 202);  
+    margin: 2rem;
+    padding: 1rem 1rem 1rem 2rem;
+}
