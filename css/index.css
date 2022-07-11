@@ -1,6 +1,9 @@
 .body {
     background-color: #556b2f;
+    background-position: center;
+    background-size: cover;
     color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 0;
 }
 
@@ -10,4 +13,47 @@
     border: rgb(252, 252, 202);  
     margin: 2rem;
     padding: 1rem 1rem 1rem 2rem;
+} 
+
+.profile {
+    display: flex:
+    align-item:center
+    min-height: 100vh;
 }
+
+.profile__container {
+    padding: 0 1rem;
+}
+
+.card {
+    border-radius: 1rem
+    box-shadow: 0 0 0.125rem 0.125rem #61dafb
+    overflow: hidden;
+    max-width: 320px;
+    transition: all2s;
+}
+
+.card__header,
+.card__footer {
+    background-color: rgba(33, 44, 0.875);
+    padding: 1rem;
+}
+
+.card__body {}
+
+.card__body-title {}
+
+.card__body-title {}
+
+.card__body-keywords {}
+
+.card__body-presentation {}
+
+
+.card__footer-nav-list {}
+
+.card__footer-nav-item {}
+
+.card__footer-nav-link {}
+
+.card__footer-nav-img {}
